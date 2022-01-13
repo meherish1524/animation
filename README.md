@@ -2,7 +2,7 @@
 
 
 
-![Screen_Shot](https://github.com/meherish1524/Twitter_Sentiment_Analysis1524/blob/main/Capture12.PNG?raw=true)
+![Screen_Shot](https://github.com/meherish1524/animation/blob/main/screen%20shot.jpeg?raw=true)
 
 
 ## Getting Started
@@ -47,4 +47,4 @@ Manchala Meherish
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/meherish1524/Twitter_Sentiment_Analysis1524/blob/main/LICENSE.txt) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/meherish1524/animation/blob/main/LICENSE) file for details
