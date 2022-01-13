@@ -6,8 +6,8 @@
 
 
 ## Getting Started
- 
-First of all login from your Twitter account and goto [Twitter Apps](https://apps.twitter.com/). Create a new app and goto __Keys and access tokens__ and copy Consumer Key, Consumer Secret, Access Token and Access Token Secret. We will need them later. 
+
+Converting image to animation and sketch using Python_cv2
 
 ### Installation
 
